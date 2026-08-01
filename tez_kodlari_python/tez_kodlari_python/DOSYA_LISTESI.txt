@@ -1,0 +1,11 @@
+Tez kodlarının Python dosyaları
+
+gazebo/dikdortgen/camera_view.py
+gazebo/dikdortgen/window_offboard.py
+gazebo/zigzag/camera_view.py
+gazebo/zigzag/window_offboard.py
+gercek_iha/dikdortgen_drone.py
+gercek_iha/zigzag_drone.py
+
+Not: Dosyalar kaynak Word belgelerindeki kod metinleri korunarak çıkarılmış
+ve Python sözdizimi denetiminden geçirilmiştir.
